@@ -12,6 +12,6 @@ I have no practic in IT
 * Czech B2
 * English A2
 
-My contakt *pavlogratson@gmail.com*
+**My contakt:** *pavlogratson@gmail.com*
 
-discord name: Павло#1201
+                *discord name: Павло#1201*
