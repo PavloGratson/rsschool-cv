@@ -1,4 +1,4 @@
-Pavlo Gratson
+#Pavlo Gratson
 pavlogratson@gmail.com
 Hello, my name Pavlo Gratson and i want by Junior Dev
 I have now idea what is programing
