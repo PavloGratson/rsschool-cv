@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hello, my name Pavlo Gratson and i want by Junior QA Engineer
 I have no idea what programming is, but I'm learning fast!
 I have no practic in IT
